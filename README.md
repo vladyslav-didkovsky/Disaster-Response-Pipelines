@@ -1,5 +1,18 @@
 # Disaster-Response-Pipelines
 
+
+# Motivation
+
+The purpose of the project is to build a model for an API that classifies disaster messages. Using the web app an emergency worker can input a new message and get classification results in several categories so to have an idea what kind of help is needed: "water", "shelter", "food", etc.
+
+The web app also displays visualizations of the data.
+
+In this project, I analyzed the data provided by Figure Eight containing the messages in three different categories. Goal of the project is to build a model for an API that classifies disaster messages across 36 different categories.
+
+![Screenshoots](disaster-response-project1.png)
+![Screenshoots](disaster-response-project2.png)
+![Screenshoots](Screenshot 2020-05-12 at 00.31.35.png)
+
 # Install
 
 This project requires Python 3.x and the following Python libraries installed:
